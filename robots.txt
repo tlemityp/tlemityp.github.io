@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tlemityp.github.io/sitemap.html.gz
+Sitemap: https://tlemityp.github.io/app/sitemap.html.gz
+Sitemap: https://tlemityp.github.io/assets/sitemap.html.gz
+Sitemap: https://tlemityp.github.io/css/sitemap.html.gz
+Sitemap: https://tlemityp.github.io/data/sitemap.html.gz
+Sitemap: https://tlemityp.github.io/includes/sitemap.html.gz
+Sitemap: https://tlemityp.github.io/item/sitemap.html.gz
+Sitemap: https://tlemityp.github.io/src/sitemap.html.gz
